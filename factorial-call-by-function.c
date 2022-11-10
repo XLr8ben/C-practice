@@ -1,3 +1,5 @@
+//factorial-call-by-function
+
 #include <stdio.h>
 int factorial(int x);
 
