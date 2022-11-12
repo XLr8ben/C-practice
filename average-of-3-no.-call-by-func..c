@@ -1,3 +1,5 @@
+//average-of-3-no.-call-by-func.
+
 #include <stdio.h>
 float average (int x, int y, int z);
 
