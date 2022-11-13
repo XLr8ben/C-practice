@@ -13,8 +13,7 @@ int main ()
   return 0;
 }
 
-float temp (int c)
-{
+float temp (int c){
   float far = (float) (c * 9 / 5) + 32;
   return far;
 }
