@@ -21,11 +21,8 @@ main ()
   return 0;
 }
 
-float
-average (int x, int y, int z)
-{
-  float result;
-  result =(float)(x + y + z) / 3;
+float average (int x, int y, int z){
+  float result =(float)(x + y + z) / 3;
   return result;
 }
 
