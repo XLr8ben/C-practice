@@ -1,3 +1,5 @@
+//address-of-pointers
+
 #include <stdio.h>
 void print(int a){
     printf("The address of variable is %u\n", &a);
