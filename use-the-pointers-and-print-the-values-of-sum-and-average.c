@@ -1,4 +1,5 @@
 //Use the pointers and print the values of sum and average
+
 #include <stdio.h>
 
 void SumAndAvg(int a, int b, int *sum, float *avg){
