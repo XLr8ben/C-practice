@@ -6,7 +6,7 @@
   int marks[5];
   
   for(int i=0; i<=4; i++){
-      printf("Enter students %d marks: ", i + 1 );
+      printf("Enter student %d marks: ", i + 1 );
       scanf("%d",&marks[i]);
       
   }
